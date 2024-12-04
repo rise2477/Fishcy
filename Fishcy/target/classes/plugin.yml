@@ -1,8 +1,0 @@
-name: Fishcy
-version: 0.0.1-beta
-main: com.AsherRise.Main
-api-version: 1.20.6
-commands:
-  fishcy:
-    description: A test command
-    usage: /fishcy
