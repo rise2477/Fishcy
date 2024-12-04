@@ -6,3 +6,6 @@ commands:
   fishcy:
     description: A test command
     usage: /fishcy
+  fishcyreload:
+    description: A test command
+    usage: /fishcyreload
